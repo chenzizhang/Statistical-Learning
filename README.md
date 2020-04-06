@@ -1,2 +1,2 @@
 # Statistical-Learning
-Projects
+Projects and Coding Assignments
